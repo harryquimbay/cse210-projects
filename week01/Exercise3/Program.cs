@@ -19,7 +19,7 @@ while (guess != magicNumber)
     }
     else if (guess > magicNumber)
     {
-        Console.WriteLine("Lower")
+        Console.WriteLine("Lower");
     }
     else
     {
